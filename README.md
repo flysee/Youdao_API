@@ -1,3 +1,3 @@
 # Youdao_API
 Usage:
-#dict.py
+\#dict.py
